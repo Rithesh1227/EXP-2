@@ -53,6 +53,15 @@ Tabulation for Load Test:
 
 Model graph:
 Calculation: 
+<img width="587" height="785" alt="image" src="https://github.com/user-attachments/assets/828ebc28-225e-4453-b1aa-ce23f8a711c5" />
+<img width="580" height="802" alt="image" src="https://github.com/user-attachments/assets/a153f87f-548e-48af-a70a-4333bb907c50" />
+<img width="582" height="770" alt="image" src="https://github.com/user-attachments/assets/4a439df4-9529-4f62-81b6-9aa41731b498" />
+<img width="588" height="813" alt="image" src="https://github.com/user-attachments/assets/35b3e0e4-e5b7-4d34-af7a-ebb3cddee1f9" />
+<img width="586" height="722" alt="image" src="https://github.com/user-attachments/assets/c21f0590-ff82-4ec1-881e-66623b3b2bb1" />
+<img width="596" height="831" alt="image" src="https://github.com/user-attachments/assets/e9e9cb12-713a-4dca-958d-c38bf7f11ec5" />
+<img width="327" height="495" alt="image" src="https://github.com/user-attachments/assets/1f624291-0e89-4e4e-8f0a-d7f0cf32101d" />
+<img width="582" height="736" alt="image" src="https://github.com/user-attachments/assets/6333fe75-2434-4c12-9147-b815e377867f" />
+<img width="577" height="810" alt="image" src="https://github.com/user-attachments/assets/7e04cc2c-0c5e-4e4d-af7f-a8d8616ca4e4" />
 
 Open circuit characteristics
 
